@@ -8,3 +8,6 @@ git checkout SHADuCommit
 git checkout master
 git revert SHADuCommit
 git reset --hard?  (annuler tous les changements que je n'ai pas encore commités)
+
+git clone lienFourniParGitHub
+git push origin master
