@@ -1,1 +1,10 @@
-coucou 2ième commit
+Commandes git:
+
+git add nomduficher.extension
+git commit -m "commentaire"
+git commit -a -m "commentaire"
+git log
+git checkout SHADuCommit
+git checkout master
+git revert SHADuCommit
+git reset --hard?  (annuler tous les changements que je n'ai pas encore commités)
